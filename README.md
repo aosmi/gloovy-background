@@ -8,6 +8,6 @@
 4. It’s lightweight and doesn’t put a load on the system
 
 ## Technical specifications:
-SDK: min 16 (android 4.1), max 35
-Approximate weight (including optimization): ~30 KB
-Language: Java, XML
+1. SDK: min 16 (android 4.1), max 35
+2. Approximate weight (including optimization): ~30 KB
+3. Language: Java, XML
