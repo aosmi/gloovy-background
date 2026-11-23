@@ -10,4 +10,4 @@
 ## Technical specifications:
 1. SDK: min 16 (android 4.1), max 35
 2. Approximate weight (including optimization): ~30 KB
-3. Language: Java, XML
+3. Language: Kotlin, XML
